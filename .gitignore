@@ -1,0 +1,7 @@
+data/raw/
+data/*.zip
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+_backup_*
+**/_backup_*
+notes/
